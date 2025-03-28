@@ -2,7 +2,7 @@ import random
 from colorama import init, Fore, Style, Back
 import os
 
-init()
+init() # Initialize colorama
 
 def user():
     while True:
